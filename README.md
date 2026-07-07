@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Speeez/Speeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Speez
 
-Here are some ideas to get you started:
+My name is Speez and im from Germany!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Systems
+
+![Windows](https://img.shields.io/badge/-Windows-0080ff?style=flat-round&logo=&logoColor=black)
+![MacOS](https://img.shields.io/badge/-MacOS-ffffff?style=flat-round&logo=apple&logoColor=black)
+![OpenBSD](https://img.shields.io/badge/-OpenBSD-ffd500?style=flat-round&logo=openbsd&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-1c1c1c?style=flat-round&logo=linux&logoColor=white)
+
+
+
+### Language
+
+![cpp](https://img.shields.io/badge/-C++-0062ff?style=flat-round&logo=cplusp&logoColor=white)
+
+```cpp
+#include  <iostream>
+
+int main() {
+    std::cout << "Hello World!" << std::endl;
+}
+```
+
