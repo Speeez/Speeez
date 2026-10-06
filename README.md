@@ -9,7 +9,6 @@ And im Lowkey a Vibecoder... Sorry Guys.
 
 ![Windows](https://img.shields.io/badge/-Windows-0080ff?style=flat-round&logo=&logoColor=black)
 ![MacOS](https://img.shields.io/badge/-MacOS-ffffff?style=flat-round&logo=apple&logoColor=black)
-![OpenBSD](https://img.shields.io/badge/-OpenBSD-ffd500?style=flat-round&logo=openbsd&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-1c1c1c?style=flat-round&logo=linux&logoColor=white)
 
 
